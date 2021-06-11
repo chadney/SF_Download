@@ -503,6 +503,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="COPYING.txt" />
     <Content Include="Resources\sfi_create_proc_insert_settings.sql" />
     <Content Include="Resources\sfi_create_proc_log_task_complete.sql" />
     <Content Include="Resources\sfi_create_proc_select_changed_datatype_fields.sql" />
