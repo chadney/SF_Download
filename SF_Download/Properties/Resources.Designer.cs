@@ -61,22 +61,6 @@ namespace SF_Download.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
-        ///&lt;jobInfo
-        ///    xmlns=&quot;http://www.force.com/2009/06/asyncapi/dataload&quot;&gt;
-        ///  &lt;operation&gt;query&lt;/operation&gt;
-        ///  &lt;object&gt;ObjectName&lt;/object&gt;
-        ///  &lt;concurrencyMode&gt;Parallel&lt;/concurrencyMode&gt;
-        ///  &lt;contentType&gt;CSV&lt;/contentType&gt;
-        ///&lt;/jobInfo&gt;.
-        /// </summary>
-        internal static string createAccountJob {
-            get {
-                return ResourceManager.GetString("createAccountJob", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to 
         ///
         ///CREATE PROCEDURE sfi.sfi_insert_log_execution

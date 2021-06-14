@@ -117,16 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="createAccountJob" xml:space="preserve">
-    <value>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;jobInfo
-    xmlns="http://www.force.com/2009/06/asyncapi/dataload"&gt;
-  &lt;operation&gt;query&lt;/operation&gt;
-  &lt;object&gt;ObjectName&lt;/object&gt;
-  &lt;concurrencyMode&gt;Parallel&lt;/concurrencyMode&gt;
-  &lt;contentType&gt;CSV&lt;/contentType&gt;
-&lt;/jobInfo&gt;</value>
-  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="sfi_create_proc_insert_log_execution" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sfi_create_proc_insert_log_execution.sql;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
